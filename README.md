@@ -4,7 +4,7 @@ Doug The Dog is a text-based dungeon crawler written in Java for the Software De
 
 The team consists of members:
 
-Nan Zhoui  
+Nan Zhou  
 Ekechi Nzwei  
 Sean Hetherington  
 Kello Williams
