@@ -1,0 +1,759 @@
+1
+kid
+normal
+1
+“Brad? You ask, incredulous. You didn’t expect to see any of your classmates here, much less the most obnoxious one in your year.
+“What are you doing here? Are you a part of this? Did you take Doug??” Your voice raises in anger, and Brad’s is equally heated when he responds.
+“What? Screw you, man! You can’t come in here and accuse me of taking your stupid dog without any evidence!”
+He storms off, leaving you alone in the front room, with nothing but POSTERS and the oversized FRONT DESK for company. Behind the desk, there is a DOOR.
+
+1
+----
+2
+posters
+normal
+1
+The posters are all advertising the gym’s various offerings. Nothing interesting here.
+
+
+
+
+1
+----
+3
+front desk
+item
+1
+You shuffle through the papers laying haphazardly on the desk.
+Registration forms, reminders to clean the showers... and a picture of your dog!
+This looks like it was taken in your backyard. Hm. You’ll be keeping this.
+
+picture of doug
+1
+----
+4
+door
+move
+1
+
+
+
+
+
+1
+----
+5
+lockers
+normal
+2
+There has to be something useful in one of these lockers.
+There’s twenty of them, after all.
+But after trying them one by one, you find them all locked. What a shame.
+
+
+1
+----
+6
+gym bag
+item
+2
+You wonder who this gym bag belongs to. Brad? It must be his, since he seems to be the only person around.
+You glance around to make sure you’re alone before opening it.
+Deodorant, a towel, a change of clothes... crammed in the bottom, you find a crumpled post-it note.
+“145 Willow Lane. Get it done!” you read. That’s your address! This seems like some quality evidence. You think you’ll keep it.
+post-it note
+1
+----
+7
+left
+move
+2
+
+
+
+
+
+1
+----
+8
+ring
+move
+2
+
+
+
+
+
+1
+----
+9
+shelves
+item
+3
+The shelves crowding the wall are absolutely packed with gear.
+You don’t know how you’d find anything here. But as you’re turning away, a glint catches your eye.
+A can of spray paint! The color looks the same as the symbol left in your yard. Curious.
+You stash it in your bag for later.
+spray paint can
+1
+----
+10
+desk
+item
+3
+The desk looks like a coach’s station.
+There’s a whistle, a couple trophies, and a notepad on the desk.
+There’s a cord hanging out of a drawer, which you open to find a key.
+“This could come in handy,” you think to yourself as you slip it into your pocket.
+key
+1
+----
+11
+door
+move
+3
+
+
+
+
+
+1
+----
+12
+leave
+move
+4
+
+
+
+
+
+1
+----
+13
+brad
+normal
+4
+Brad stands to meet you as you approach.
+“I know you took my dog,” you say. “What?” Brad scoffs.
+“How could I? I didn’t even know you had a stupid dog.”
+You recall the PAINT, NOTE, and PICTURE you found earlier. Might be time to pull them out.
+
+1
+----
+14
+up
+move
+4
+
+
+
+
+
+1
+----
+15
+desk manager
+normal
+5
+Good afternoon! My name is Tommy, how can I help you today?
+Oh, wow looks like you lost your pool pass!
+I tell you what, if you can solve my RIDDLE, I’ll give you a pass.
+
+
+1
+----
+16
+riddle
+riddle
+5
+
+
+
+
+
+1
+----
+17
+pool pass
+move
+5
+
+
+
+
+
+1
+----
+18
+smoothie guy
+item
+6
+Thank you so much! Oh, you have to get into the SAUNA?
+I can totally get you in thanks for helping me out.
+Here’s the key. (Glasses have been removed from your inventory. You gained 1 SAUNA key)
+
+glasses
+1
+----
+19
+sauna
+move
+6
+
+
+
+
+
+1
+----
+20
+battle
+battle
+7
+
+
+
+
+
+1
+----
+21
+massage room
+move
+7
+
+
+
+
+
+1
+----
+22
+massage
+hp
+8
+Your HP has been increased by 5.
+
+
+
+
+1
+----
+23
+explore
+item
+8
+Looks like there’s a door here but it needs a code.
+As you scan the room, you see the glint of a key on the ground.
+Wait there’s a NOTE near the key that might help.
+
+key
+1
+----
+24
+note
+riddle
+8
+
+
+
+
+
+1
+----
+25
+stand
+item
+9
+There may be something useful behind the hostess stand. You take a peek, and find a stack of menus.
+All the menu items have odd names, though, and there are no pictures.
+“Beauty Blend”? “Lover’s Luxury”? Something’s fishy about this.
+You think you’ll hang onto one of these.
+mystery menu
+1
+----
+26
+in
+move
+9
+
+
+
+
+
+1
+----
+27
+paper
+item
+10
+You pick up the stack of papers and flip through it.
+It looks like a contract of some sort, detailing an agreement to provide the “product” on a monthly basis in exchange for an absolutely massive amount of cash.
+What kind of product do they mean? This seems important enough to keep around.
+
+business contract
+1
+----
+28
+in
+move
+10
+
+
+
+
+
+1
+----
+29
+out
+move
+10
+
+
+
+
+
+1
+----
+30
+trash
+item
+11
+You reach in and carefully pick up the vial.
+The label is peeling and torn, but the words “Hormone Solution: 1%” are visible.
+What kind of recipe would call for that? You intend to find out.
+
+hormone vial
+1
+----
+31
+431
+move
+8
+
+
+
+
+
+1
+----
+32
+right
+move
+11
+
+
+
+
+
+1
+----
+33
+out
+move
+12
+
+
+
+
+
+1
+----
+34
+chef
+normal
+12
+The chef grins as you come near.
+“You’re braver than I thought. Fortunately for you, you don’t actually know anything about what goes on here."
+"This is just a regular old restaurant, and it’s time for you to go.” You think not.
+You recall the strange MENU, the business CONTRACT, and the hormone VIAL you’ve collected that prove this isn’t a regular restaurant.
+
+1
+----
+35
+up
+move
+12
+
+
+
+
+
+1
+----
+36
+brochures
+item
+13
+You flip through the brochures.
+There’s no name or price on them. How odd.
+“Highest quality steroids and breeding services?”
+Maybe the woman who ran off can explain these. You pocket one.
+brochures
+1
+----
+37
+out
+move
+13
+
+
+
+
+
+1
+----
+38
+poster
+item
+14
+You inspect the poster.
+It has a picture of a happy Corgi and text reading “Thank you for choosing IO Veterinary Services, Inc.”
+So this is a vet clinic. Interesting... Could be useful evidence.
+
+vet poster
+1
+----
+39
+locker
+item
+14
+You check the locker and find to your surprise that it’s open!
+The only thing inside is a key.
+That’s definitely worth hanging onto.
+
+key
+1
+----
+40
+left
+move
+14
+
+
+
+
+
+1
+----
+41
+right
+move
+14
+
+
+
+
+
+1
+----
+42
+cabinet
+item
+15
+You pull open the drawer of the cabinet to find stacks of paper.
+Seems to be a running theme in this building. As you open the folder on top, you’re met with a familiar sight.
+A picture of Doug! Stapled to intake paperwork? So he is here after all!
+This paperwork is coming with you.
+doug’s paperwork
+1
+----
+43
+cages
+normal
+15
+You eagerly check each cage in turn for Doug’s face, your hopes fading with each unfamiliar snout.
+After scanning the whole wall, you’re forced to admit that Doug isn’t here. But where is he, then?
+
+
+
+1
+----
+44
+out
+move
+15
+
+
+
+
+
+1
+----
+45
+out
+move
+16
+
+
+
+
+
+1
+----
+46
+vet
+normal
+16
+You prepare yourself for another confrontation. The woman from before, who must be the veterinarian, is ready for you, with a steely gaze.
+“What do you want? You think you can just come in here with no invitation?"
+"I’ll have you know, this is a clinic for terminally ill patients, and you are trespassing!”
+You recall the strange POSTER, BROCHURE, and PAPERWORK you’ve come across and are ready to challenge her.
+
+1
+----
+47
+up
+move
+16
+
+
+
+
+
+1
+----
+48
+secretary
+normal
+17
+You’re looking to enter that Conference Room?
+There’s actually a meeting going on right now.
+But, if you can answer this RIDDLE correctly, I might just step away from my desk for a sec and no one will be here to stop you from entering.
+
+
+1
+----
+49
+riddle
+riddle
+17
+
+
+
+
+
+1
+----
+50
+battle
+battle
+18
+
+
+
+
+
+1
+----
+51
+push
+move
+18
+
+
+
+
+
+1
+----
+52
+water
+hp
+19
+Your HP has increased by 10.
+
+
+
+
+1
+----
+53
+next
+move
+19
+
+
+
+
+
+1
+----
+54
+battle
+battle
+20
+
+
+
+
+
+1
+----
+55
+key
+normal
+20
+Congrats Doug is free! You win!
+
+
+
+
+1
+----
+56
+chairs
+normal
+6
+Smoothie Guy’s glasses do not seem to be here.
+
+
+
+
+1
+----
+57
+pool
+normal
+6
+Smoothie Guy’s glasses do not seem to be here.
+
+
+
+
+1
+----
+58
+table
+item
+6
+You come across some glasses near the table
+
+
+
+glasses
+1
+----
+59
+explore
+normal
+6
+Looks like the glasses could be anywhere by the CHAIRS, by the POOL, or on the TABLE over there.
+After collecting the glasses try talking to the SMOOTHIE GUY again.
+
+
+
+1
+----
+60
+picture
+proof
+4
+As he looks at the picture, you see Brad’s confidence falter.
+“You went through my stuff? Okay, so maybe I saw your dog before.
+That doesn’t mean I took him! You don’t have anything to tie that to anyone here.”
+You think for a moment. Is there proof that the Invisible Org are the culprits?
+picture of doug
+1
+----
+61
+paint
+proof
+4
+You brandish the spray paint can.
+“This is a can of spray paint, in the exact same shade of green as the Org’s symbol, which was painted in my yard. Care to explain that?”
+Brad turns red. “Alright, maybe it was someone here. But that doesn’t prove that it was me! I don’t know anything about it!”
+You feel that you’re nearing victory. Just one last move....
+spray paint can
+2
+----
+62
+note
+proof
+4
+“I just found this, in your gym bag! What else could you possibly have been ‘getting done’ at my address?”
+Brad’s shoulders slump in defeat.
+“Okay, fine. You got me. I took your dog. I was just doing what I was told, though! Please, you can’t turn me in, my mom would freak out! I can help you get him back.”
+Sounds good to you. “Okay. Show me where to go.” Brad points to a set of stairs going UP in the back.
+post-it note
+3
+----
+63
+contract
+proof
+12
+You hand over the contract. “Do restaurants typically make deals to provide this much ‘product’? And for this price?”
+The chef grimaces. “Maybe not. But why shouldn’t we? It’s just steak.”
+She’s lying through her teeth! And you can prove it.
+
+business contract
+1
+----
+64
+menu
+proof
+12
+“Explain this then,” you say, waving the menu.
+“What kind of restaurant calls their steaks things like ‘Lover’s Luxury’? With no description, even! I’m willing to bet you’re serving more than just food.”
+The chef’s grimace turns into a glare. “Yeah? Prove it.” Gladly.
+
+mystery menu
+2
+----
+65
+vial
+proof
+12
+You show the vial to the chef and her face drops.
+“Fine. You figured it out. What do you want?” “I want my dog.”
+The chef laughs. “All this for a dog? Yeah, whatever. The stairs behind me will take you UP.”
+
+hormone vial
+3
+----
+66
+poster
+proof
+16
+You hand her the poster.
+“Really? Why would a clinic for terminally ill patients be thanking them for using ‘IO Veterinary Services, Inc.’?”
+She turns red. “Okay, so what? It’s a veterinary clinic. That’s not against the law!”
+
+vet poster
+1
+----
+67
+brochure
+proof
+16
+You whip out the sales brochure.
+“No, but this is. ‘Highest quality steroids and breeding services’? Is this what you stole my dog for?”
+The vet looks confused. “Stole your dog? I’ll admit our practices are less than legitimate, but we aren’t thieves.”
+Time to catch her in one last lie.
+brochures
+2
+----
+68
+paperwork
+proof
+16
+You hand her the paperwork you found, and pull out your phone to find a picture of Doug.
+“Not thieves, huh? Then why do you have my dog?” The vet looks genuinely shocked.
+“So, this is how they’ve been bringing in new clients? I’m so sorry, I swear to you that I didn’t know! Here, take the stairs in the back. They’ll lead you UP to your dog.”
+
+doug’s paperwork
+3
+----
+69
+enter
+move
+0
+
+
+
+
+
+1
+----

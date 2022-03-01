@@ -1,0 +1,24 @@
+1
+Sauna Goer
+7
+50
+10
+Sauna Goer: Are you going easy on me?! I know I’m old, but I can take a punch! Rematch let’s go again!
+Sauna Goer: Ok, ok you win you can go next. (You can type MASSAGE ROOM to enter the next room)
+----
+2
+Office Worker
+18
+100
+15
+Office Worker: You’re not getting by here go back the way you came. Have a better day.
+Office Worker: You win the Accounting Office is through there just PUSH the button.
+----
+3
+Boss
+20
+150
+15
+Boss: HA HA! Doug is mine now, leave at once!
+The Boss dropped the KEY set Doug free!
+----

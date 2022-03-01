@@ -1,0 +1,118 @@
+0
+The Beginning
+You stand alone before the bleak, concrete building, armed with nothing but your wits and the collar in your hand.
+It took you weeks to track down this address: the headquarters of the Invisible Org.
+Everyone in this city knows of the Org and their shadowy undertakings, how no illicit or immoral activity happens without their knowing about it... but what would they want with a dog?
+You have no idea, but with the symbol of the Org carved into the dirt of your backyard and your best friend missing, there could be no other explanation.
+You steel yourself and take a step towards the door.
+Type ENTER to Continue.
+----
+1
+Front Desk
+You enter and are surprised to see what looks like a perfectly regular gym.
+Posters along the walls advertise weightlifting classes and boxing matches, and the sign above the front desk reads ‘I/O Gym’ in giant letters.
+“Welcome to I/O Gym” says a bored voice, bringing your attention to the KID behind the desk. Hmm... He looks familiar.
+----
+2
+Locker Room
+You walk past the front desk, through the door, and into what seems to be a locker room.
+It’s empty apart from the LOCKERS lining the wall and a lone GYM BAG on one of the benches.
+There is a door hanging slightly ajar to your LEFT, and up ahead is a door marked RING.
+----
+3
+Storage Closet
+Wow. It’s pretty cramped in here.
+You find yourself standing in a tiny storage room, just big enough for the SHELVES of gym equipment lining the wall, opposite a small DESK.
+The only way out is through the same DOOR you used to enter.
+----
+4
+Boxing Ring
+You enter the ring to see Brad in the opposite corner.
+He looks up at the sound of you entering and cracks a smile. “What, did you come to make some more wild accusations?” “Not quite,” you say.
+You take a deep breath and mentally go over the evidence you’ve collected as you prepare to confront BRAD. The thought of turning around to LEAVE crosses your mind.
+----
+5
+Front Desk
+You’ve now entered onto the 2nd Floor.
+Directly in front of you is the pool but only people who have a pool pass can enter that area talk to the DESK MANAGER for more information.
+----
+6
+Pool
+You just entered the pool area.
+Look there’s a SMOOTHIE GUY over there he might be able to help you out.
+----
+7
+Sauna
+Sauna goer: Hey you! You look pretty sturdy, let’s BATTLE to see who gets to the massage tables next!
+----
+8
+Massage Room
+You’ve finally made it to the Massage Room.
+You can either get a MASSAGE to help restore some of your health or EXPLORE to find your way to the 3rd floor.
+----
+9
+Hostess Stand
+You emerge from the stairs and are met with the entrance to a high end restaurant. Wasn’t this a gym on the last floor? What kind of operation is the Org running here?
+Your eyes meet the stare of the woman behind the hostess STAND. “Welcome to the Canteen, how can I-” She stops abruptly, her face turning pale to match the white chef’s hat on her head.
+“You’re not supposed to be here.” She turns away and heads deeper IN to the restaurant. What a strange reaction.
+----
+10
+Dining Room
+You enter the dining room and expect to be surrounded by tables, but instead only see one.
+The long wooden table looks like it would be more at home in a boardroom than a dining room, and is empty apart from one pile of PAPER.
+You can go IN to the kitchen or OUT to the hostess station from here.
+----
+11
+Kitchen
+The kitchen is spotless and filled with industrial appliances.
+It seems geared towards making large batches, and there are several scales on the counter.
+An empty bottle in the TRASH catches your eye. You can go back OUT to the dining room or into the freezer on the RIGHT.
+----
+12
+Freezer
+You enter the walk-in freezer and try not to lose your nerve.
+Through your fogged breath, you see the CHEF, lying in wait.
+It isn’t too late to turn around and go back OUT to the kitchen. What’s your move?
+----
+13
+Reception
+You enter a sterile-looking waiting room and are met with a curt greeting. “You’re late. You were meant to be-” The woman behind the reception desk stops abruptly as she looks up.
+“You’re not allowed up here.” You start to explain yourself but don’t get the chance before she rushes OUT of the room through the door behind her.
+Nothing is left in the waiting room except you and some BROCHURES.
+----
+14
+Hallway
+The hallway you find yourself in is clinical and sparse.
+There is a single POSTER on the wall, one LOCKER and a door to your LEFT and your RIGHT.
+----
+15
+Kennel
+The first thing you notice upon entering the room is the smell.
+The second thing to attract your attention is the CABINET you almost bump into.
+As you take in the rest of the room, you realize the smell is the scent of dogs.
+This is a kennel! You scan the wall of CAGES, hoping desperately to find Doug.
+You also notice the only way to leave this room is OUT the way you came in.
+----
+16
+Exam Room
+You enter what seems to be an exam room, filled with apprehension.
+You see a shadowy figure across the room. This is your last chance to back out.
+Do you take the exit OUT into the hallway, or confront the VET?
+----
+17
+Secretary/Main Office
+You just entered the final floor, the current room you’re in is the Main Office.
+Speak to the SECRETARY to see how you can get into that Conference Room.
+----
+18
+Conference Room
+Office Worker: Hello, can I help you with something? I think you might’ve lost your way. (Type BATTLE to enter fighting sequence.)
+----
+19
+Accounting Office
+In this room you can restore your health by typing WATER or move to the next room by typing NEXT.
+----
+20
+Boss’ Office
+You have now entered the Boss’ Office and you see Doug trapped in a cage. BATTLE the Boss to retrieve the key to set Doug free.
+----

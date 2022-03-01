@@ -1,0 +1,15 @@
+1
+Brad
+4
+“Ha! What does that prove?” Brad’s right. Your face feels hot with embarrassment. Maybe try again.
+----
+2
+Chef
+12
+“Ha! What does that prove?” The Chef’s right. Your face feels hot with embarrassment. Maybe try again.
+----
+3
+Vet
+16
+“What on Earth does that prove?” Your shoulders slump. She’s right. Maybe try again.
+----
